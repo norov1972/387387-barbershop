@@ -1,4 +1,4 @@
- body {
+  body {
   min-width: 1122px;
   margin: 0;
   padding: 0;
@@ -164,7 +164,6 @@
    width: 720px;
    
 }
-
 .catalog {
     margin: 0 auto;
 }
@@ -190,6 +189,14 @@
     margin-right: 0px;
     float: right;
 }
+
+.btn-1 {
+    width: 45px;
+    height: 45px;
+    background-color: #32425c;
+}
+
+
 
 
 
